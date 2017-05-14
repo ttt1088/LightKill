@@ -20,6 +20,10 @@
 package com.lightgaming.lightkill;
 
 import android.os.Bundle;
+import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
+
 import org.apache.cordova.*;
 
 public class MainActivity extends CordovaActivity

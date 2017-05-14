@@ -12,6 +12,12 @@
         },
         "cordova-plugin-webrtc": {
             "PACKAGE_NAME": "com.lightgaming.lightkill"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.lightgaming.lightkill"
+        },
+        "cordova-plugin-translucent-statusbar": {
+            "PACKAGE_NAME": "com.lightgaming.lightkill"
         }
     },
     "dependent_plugins": {}
